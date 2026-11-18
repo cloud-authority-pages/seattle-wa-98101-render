@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://seattle-wa-98101.onrender.com/sitemap.xml
+Sitemap: https://seattle-wa-98101.onrender.com/seattle-property-management/sitemap.xml

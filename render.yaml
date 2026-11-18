@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: seattle-wa-98101
+    env: static
+    staticPublishPath: public
+    buildCommand: ""
+    pullRequestPreviewsEnabled: false
